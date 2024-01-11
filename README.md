@@ -2,12 +2,10 @@
 
 
 
-- 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning git and github.
+- 🔭 I’m currently working C# and dot net core project.
 - 👯 I’m looking to collaborate on my new project.
-- 🤔 I’m looking for help with java.
 - 💬 Ask me about ...
-- 📫 How to reach me: utsabsingh5@gmail.ocm
+- 📫 How to reach me: utsabsingh5@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Not fun enough
+- ⚡ Fun fact: Nothing funny enough
 
